@@ -182,8 +182,4 @@ To modify the application:
 
 ## License
 
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
+Creative Commons Zero v1.0 Universal
